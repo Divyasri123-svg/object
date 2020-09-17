@@ -1,0 +1,8 @@
+public myclass {
+int x=5;
+public static void main(string args[])
+{
+myclass obj=new myclass();
+System.out.println("myclass object is:"+obj.x);
+}
+}
